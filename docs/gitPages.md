@@ -23,7 +23,7 @@ y se selecciona Brach y se pondra:
 
 Para ver si ha hecho bien el build hay que acceder a tu repositorio y a:
 
-**Action -> Nombre del commit **
+**Action -> Nombre del commit**
 
 ![imagen de page](imagenes/PagesAction.png)
 

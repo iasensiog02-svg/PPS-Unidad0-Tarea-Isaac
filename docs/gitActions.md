@@ -20,7 +20,7 @@ nano deploy_docs.yml
 
 ---
  
-## 2. Modificación del Archivo deploy_docs.yml 
+## 2. Modificación del Archivo `deploy_docs.yml` 
 
 El fichero despliega automáticamente la documentación: tras cada push en main, instala MkDocs y publica la web en la rama gh-pages.
 
@@ -35,6 +35,7 @@ Aquí se define el nombre del sitio, el menú de navegación y los archivos Mark
 edité este archivo para añadir todas las secciones de la documentación y dejar configurada la navegación del proyecto.
 
 ![Imagen del mkdocs](imagenes/mkdocs.png)
+
 ---
 ## 4. Verificación del WorkFlow
 
