@@ -16,6 +16,7 @@ y se selecciona Brach y se pondra:
 
 **Brach -> gh-pages**
 
+![imagen del page](imagenes/gh-pages.png)
 ---
 
 ## 2. Verificación del Build
