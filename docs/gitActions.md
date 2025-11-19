@@ -24,7 +24,7 @@ nano deploy_docs.yml
 
 El fichero despliega automáticamente la documentación: tras cada push en main, instala MkDocs y publica la web en la rama gh-pages.
 
-![Imagen del deploy](/images/deploydocs)
+![Imagen del deploy](imagenes/deploydocs.png)
 
 ---
 
@@ -34,7 +34,7 @@ En este paso se crea el archivo de configuración `mkdocs.yml`,que es el documen
 Aquí se define el nombre del sitio, el menú de navegación y los archivos Markdown que formarán la estructura de la página. Una vez creado,
 edité este archivo para añadir todas las secciones de la documentación y dejar configurada la navegación del proyecto.
 
-![Imagen del mkdocs](/imagenes/mkdocs.png)
+![Imagen del mkdocs](imagenes/mkdocs.png)
 
 
 ## 4. Verificación del WorkFlow
@@ -48,4 +48,4 @@ git push
 
 ```
 
-![Imagen del PagesBuilder](/imagenes/pagesBuild.png)
+![Imagen del PagesBuilder](imagenes/pagesBuild.png)
