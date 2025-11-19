@@ -12,7 +12,7 @@ site_name: PPS Unidad 0 - Isaac Asensio  # Define el título que aparecerá en l
 nav:
   # El nombre de la sección en el menú: nombre_archivo.md
   - Home: index.md             # Primer elemento del menú, enlaza con el archivo 'index.md'.
-  - Git: guia_uso.md
+  - Git: git.md
   - GitActions: gitActions.md           # Segundo elemento del menú, enlaza con el archivo 'guia_uso.md'.
   - GitPages: gitPages.md
   - Docker: docker.md

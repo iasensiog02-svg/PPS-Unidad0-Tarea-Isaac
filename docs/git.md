@@ -2,13 +2,13 @@
 
 ## 1. Creación del repositorio
 
-1. Accedí a la cuenta de ** GitHub **
-1. Creé un nuevo ** repositorio **
-1. Marqué la opcion de *** Public ***
+1. Accedí a la cuenta de **GitHub**
+1. Creé un nuevo **repositorio**
+1. Marqué la opcion de ***Public***
 
 ## Repositorio creado + Push ( A ti solo te saldria el readme)
 
-![Captura de la creacion](CreacionRepositorio.png)
+![Captura de la creacion](imagenes/CreacionRepositorio.png)
 
 ---
 
