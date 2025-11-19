@@ -18,13 +18,13 @@ y se selecciona Brach y se pondra:
 
 ---
 
-## 1. Verificación del Build
+## 2. Verificación del Build
 
 Para ver si ha hecho bien el build hay que acceder a tu repositorio y a:
 
 **Action -> Nombre del commit **
 
-![imagen de page](imagenes/pagesAction.png)
+![imagen de page](imagenes/PagesAction.png)
 
 Dentro de el aparecerá algo asi que será el build
 
@@ -32,10 +32,10 @@ Dentro de el aparecerá algo asi que será el build
 
 ---
 
-## 1. Ver documentación 
+## 3. Ver documentación 
 La URL para ver el formato será:
 
 `http://$Usuario_Github.github.io/$Repositorio`
 
  
-![imagen de page](paginaPages.png)
+![imagen de page](imagenes/paginaPages.png)
