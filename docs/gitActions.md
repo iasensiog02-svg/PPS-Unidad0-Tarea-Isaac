@@ -35,8 +35,7 @@ Aquí se define el nombre del sitio, el menú de navegación y los archivos Mark
 edité este archivo para añadir todas las secciones de la documentación y dejar configurada la navegación del proyecto.
 
 ![Imagen del mkdocs](imagenes/mkdocs.png)
-
-
+---
 ## 4. Verificación del WorkFlow
 
 Una vez creado y configurado el workflow, realicé un `git add`, `commit` y `push` para activar el proceso:
