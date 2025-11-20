@@ -28,11 +28,11 @@ nav:
 # -------------------------------------------------------------
 # Ruta de la carpeta que contiene todos los archivos .md (Markdown) de la documentación.
 # MkDocs buscará aquí los archivos listados en 'nav'.
-doc_dir: docs 
+doc_dir: docs
 # -------------------------------------------------------------
 # TEMA (Opcional, pero común)
 # -------------------------------------------------------------
-# theme: 
-#   name: 'material' # Si usas el popular tema Material for MkDocs.
+theme:
+name: 'material' # Si usas el popular tema Material for MkDocs.
 #   # highlightjs: true
 #   # code_fences: true
