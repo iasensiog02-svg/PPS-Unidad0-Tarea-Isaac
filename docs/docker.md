@@ -8,12 +8,12 @@ En este apartado se explica cómo desplegar un servidor web local utilizando Doc
 
 La documentación generada por MkDocs se guarda en la rama `gh-pages`. Antes de lanzar el contenedor, es necesario situarse en dicho branch para asegurar que NGINX sirve los archivos adecuados.
 
-```bash
+```
 cd PPS-Unidad0-Tarea-$Tunombre
 git checkout gh-pages
-´´´
+```
 
-![imagen](imagenes/ramas.jpg)
+![imagen](imagenes/ramas.png)
 
 ---
 
@@ -28,7 +28,7 @@ Se lanza el contenedor asignándole un nombre, mapeando el puerto 8085 hacia el 
   nginx:latest      
 ```
  
-![imagen](imagenes/dockerrun.jgp)
+![imagen](imagenes/dockerrun.png)
 
 ---
 ## 3. Contenedor en ejecucion
@@ -42,4 +42,4 @@ docker ps
 
 ## 4. Pagina generada
 
-![imagen](imagenes/localhost.jpg)
+![imagen](imagenes/localhost.png)
