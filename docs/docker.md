@@ -43,3 +43,6 @@ docker ps
 ## 4. Pagina generada
 
 ![imagen](imagenes/localhost.png)
+
+
+![ruta](info_contenedor.json)
