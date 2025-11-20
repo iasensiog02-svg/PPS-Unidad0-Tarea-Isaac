@@ -21,7 +21,8 @@ git checkout gh-pages
 
 Se lanza el contenedor asignándole un nombre, mapeando el puerto 8085 hacia el puerto 80 interno y montando el directorio actual como carpeta raíz del servidor web.
 
-```docker run -d \
+```
+docker run -d \
   --name PPSUnidad0-Tarea_$tunombre \
   -p 8085:80 \
   -v "$(pwd)":/usr/share/nginx/html \
@@ -31,6 +32,7 @@ Se lanza el contenedor asignándole un nombre, mapeando el puerto 8085 hacia el 
 ![imagen](imagenes/dockerrun.png)
 
 ---
+
 ## 3. Contenedor en ejecucion
 
 Con el comando deberia de aparecer el contenedor en ejecucion
@@ -45,4 +47,4 @@ docker ps
 ![imagen](imagenes/localhost.png)
 
 
-![ruta](info_contenedor.json)
+[ruta](info_contenedor.json)
